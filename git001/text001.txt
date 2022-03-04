@@ -1,0 +1,7 @@
+https://github.com
+저장소
+비번 인증키 > 인증서 붙여넣기 토근 생성 후 복사
+이클립스 연동 - 프로젝트 만들거나 폴더 또는 dyn 다 가능
+window > show view > other > git > git repositories
+git repositories > clone a git reposito
+프로젝트 선택 후 오른쪽 마우스 team share project
